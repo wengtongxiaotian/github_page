@@ -1,0 +1,5 @@
+1、X.-D. Chen, C.-L Zou, Z. -J. Gong, C. -H. Dong, G. -C Guo and F.-W. Sun\* Subdiffraction optical manipulation of the charge state of nitrogen vacancy center in diamond, Light-Sci. & Appl. 4, e230 (2015).  
+2、C.-L. Zou, J.-M. Cui, F.-W. Sun\*, X. Xiong, X. -B. Zou, Z. -F. Han, and G. -C. Guo, Guiding light through optical bound states in the continuum for ultrahigh-Q microresonators, Laser Photonics Rev. 9, 114–119 (2015)  
+3、J.-M. Cui, F.-W. Sun\*, X.-D. Chen, Z.-J. Gong, and G.-C. Guo, Quantum statistical imaging of particles without restriction of the diffraction limit, Phys. Rev. Lett. 110, 153901 (2013).  
+4、C.-L. Zou, F. -W. Sun\*, C.-H. Dong, X.-F. Ren, X.-D. Chen, J.-M. Cui, Z.-F. Han, G.-C. Guo, Broadband integrated polarization beam splitter with surface Plasmon, Opt. Lett. 36, 3630 (2011).  
+5、X.-D. Chen, C.-H. Dong, F.-W. Sun\*, C.-L. Zou, J.-M. Cui, Z.-F. Han, and G.-C. Guo, Temperature dependent energy level shifts of nitrogen-vacancy centers in diamond, Appl. Phys. Lett. 99, 161903 (2011).  
